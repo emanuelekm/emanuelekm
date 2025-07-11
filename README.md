@@ -2,7 +2,8 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Me chamo Emanuele Kmiecik, tenho 19 anos e sou natural do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI - PR. 
+Me chamo Emanuele Kmiecik, tenho 19 anos e sou natural do Paraná. 
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI/PR. 
 
 <p align="left">
     <a
@@ -31,7 +32,7 @@ Me chamo Emanuele Kmiecik, tenho 19 anos e sou natural do Paraná. Atualmente, e
     title="C#"
     width="30px" 
     style="padding-right: 10px;"
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+    <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_32x32.png" />
           
 </p>         
 
