@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Me chamo Emanuele Kmiecik, tenho 19 anos e sou natural do Paraná. Atualmente, sou Técnica Desenvolvimento de Sistemas pelo SENAI/PR e grauando do cuso de Engenharia de Software pela Universidade Positivo. 
+Me chamo Emanuele Kmiecik, tenho 19 anos e sou natural do Paraná. Atualmente, sou Técnica Desenvolvimento de Sistemas pelo SENAI/PR e graduanda do cuso de Engenharia de Software pela Universidade Positivo. 
 Estou sempre em busca de novos desafios que ampliem meus conhecimentos e compartilho meu aprendizado e projetos no GitHub e LinkedIn.
 
 <p align="left">
