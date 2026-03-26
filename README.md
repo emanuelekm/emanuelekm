@@ -21,6 +21,8 @@ Estou sempre em busca de novos desafios que ampliem meus conhecimentos e compart
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <img 
