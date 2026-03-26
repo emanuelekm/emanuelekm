@@ -5,24 +5,6 @@
 Me chamo Emanuele Kmiecik, tenho 19 anos e sou natural do Paraná. Atualmente, sou Técnica Desenvolvimento de Sistemas pelo SENAI/PR e graduanda do cuso de Engenharia de Software pela Universidade Positivo. 
 Estou sempre em busca de novos desafios que ampliem meus conhecimentos e compartilho meu aprendizado e projetos no GitHub e LinkedIn.
 
-<p align="left">
-    <a
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/emanuelekm?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/emanuelekm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
