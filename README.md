@@ -33,14 +33,3 @@ Estou sempre em busca de novos desafios que ampliem meus conhecimentos e compart
 <br/>
 
 ---
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelekm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
