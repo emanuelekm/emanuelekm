@@ -7,7 +7,7 @@
 ---
 
 Me chamo **Emanuele Kmiecik**, tenho 19 anos e sou natural do Paraná.
-Sou **Técnica em Desenvolvimento de Sistemas pelo SENAI/PR** e atualmente curso **Engenharia de Software**.
+Sou **Técnica em Desenvolvimento de Sistemas** pelo SENAI/PR e atualmente curso **Engenharia de Software** pela Univerdade Positivo do Paraná.
 
 Tenho interesse em desenvolvimento de sistemas, com foco em construção de aplicações completas, lógica de programação e organização de projetos.
 
