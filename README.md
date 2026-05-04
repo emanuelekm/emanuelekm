@@ -2,7 +2,7 @@
 
 ![Foco](https://img.shields.io/badge/foco-Desenvolvimento%20de%20Sistemas-blue?style=for-the-badge)
 ![Formação](https://img.shields.io/badge/formação-Engenharia%20de%20Software-purple?style=for-the-badge)
-![Nível](https://img.shields.io/badge/nível-Estudante%20em%20Evolução-yellow?style=for-the-badge)
+![Nível](https://img.shields.io/badge/nível-Estudante-yellow?style=for-the-badge)
 
 ---
 
