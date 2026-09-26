@@ -6,12 +6,13 @@
 
 ---
 
-Me chamo **Emanuele Kmiecik**, tenho 20 anos e sou natural do Paraná.
-Sou **Técnica em Desenvolvimento de Sistemas** pelo SENAI/PR e atualmente curso **Engenharia de Software** pela Univerdade Positivo do Paraná.
+Olá! Eu sou Emanuele Kmiecik 👩🏻‍💻
 
-Tenho interesse em desenvolvimento de sistemas, com foco em construção de aplicações completas, lógica de programação e organização de projetos.
+Sou Técnica em Desenvolvimento de Sistemas pelo SENAI/PR e atualmente curso Engenharia de Software pela Universidade Positivo.
 
-Busco constantemente evoluir minhas habilidades e transformar conhecimento em soluções práticas.
+Tenho interesse em desenvolvimento de software, desenvolvimento web, automação de processos, análise de dados e inteligência artificial.
+
+Busco transformar conhecimentos acadêmicos e experiências práticas em soluções que contribuam para resolver problemas reais, sempre buscando evoluir minhas habilidades técnicas e minha capacidade de desenvolver projetos completos.
 
 ---
 
